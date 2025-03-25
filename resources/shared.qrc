@@ -1,0 +1,61 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <!-- fonts -->
+        <file>fonts/Inter-Black.ttf</file>
+        <file>fonts/Inter-BlackItalic.ttf</file>
+        <file>fonts/Inter-Bold.ttf</file>
+        <file>fonts/Inter-BoldItalic.ttf</file>
+        <file>fonts/Inter-ExtraBold.ttf</file>
+        <file>fonts/Inter-ExtraBoldItalic.ttf</file>
+        <file>fonts/Inter-ExtraLight.ttf</file>
+        <file>fonts/Inter-ExtraLightItalic.ttf</file>
+        <file>fonts/Inter-Italic.ttf</file>
+        <file>fonts/Inter-Light.ttf</file>
+        <file>fonts/Inter-LightItalic.ttf</file>
+        <file>fonts/Inter-Medium.ttf</file>
+        <file>fonts/Inter-MediumItalic.ttf</file>
+        <file>fonts/Inter-Regular.ttf</file>
+        <file>fonts/Inter-SemiBold.ttf</file>
+        <file>fonts/Inter-SemiBoldItalic.ttf</file>
+        <file>fonts/Inter-Thin.ttf</file>
+        <file>fonts/Inter-ThinItalic.ttf</file>
+        <file>fonts/InterDisplay-Black.ttf</file>
+        <file>fonts/InterDisplay-BlackItalic.ttf</file>
+        <file>fonts/InterDisplay-Bold.ttf</file>
+        <file>fonts/InterDisplay-BoldItalic.ttf</file>
+        <file>fonts/InterDisplay-ExtraBold.ttf</file>
+        <file>fonts/InterDisplay-ExtraBoldItalic.ttf</file>
+        <file>fonts/InterDisplay-ExtraLight.ttf</file>
+        <file>fonts/InterDisplay-ExtraLightItalic.ttf</file>
+        <file>fonts/InterDisplay-Italic.ttf</file>
+        <file>fonts/InterDisplay-Light.ttf</file>
+        <file>fonts/InterDisplay-LightItalic.ttf</file>
+        <file>fonts/InterDisplay-Medium.ttf</file>
+        <file>fonts/InterDisplay-MediumItalic.ttf</file>
+        <file>fonts/InterDisplay-Regular.ttf</file>
+        <file>fonts/InterDisplay-SemiBold.ttf</file>
+        <file>fonts/InterDisplay-SemiBoldItalic.ttf</file>
+        <file>fonts/InterDisplay-Thin.ttf</file>
+        <file>fonts/InterDisplay-ThinItalic.ttf</file>
+
+        <!-- qml -->
+        <file>qml/main.qml</file>
+        <file>qml/CustomButton.qml</file>
+        <file>qml/CustomCheckbox.qml</file>
+        <file>qml/CustomRadioButton.qml</file>
+        <file>qml/CustomCombobox.qml</file>
+
+        <!-- images -->
+        <file>images/close.svg</file>
+        <file>images/check.svg</file>
+        <file>images/music.png</file>
+        <file>images/vid.png</file>
+        <file>images/empty.png</file>
+        <file>images/arrow-down.svg</file>
+        <file>images/app.png</file>
+
+        <!-- icon -->
+        <file>icons/app2.ico</file>
+    </qresource>
+</RCC>

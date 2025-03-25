@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "qprocess": "cpp",
+        "exception": "cpp",
+        "qquickview": "cpp",
+        "qjsvalue": "cpp",
+        "qregularexpression": "cpp",
+        "qwidget": "cpp"
+    }
+}

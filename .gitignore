@@ -1,0 +1,11 @@
+bin/*.exe
+bin/*.dll
+
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pyzw
+
+build/
